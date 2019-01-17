@@ -10,6 +10,9 @@
         "build": "gatsby build",
         "serve": "gatsby serve"
     },
+    "bugs": {
+        "url": "https://github.com/JohnMilazzo/gatsby-solo/issues"
+    },
     "dependencies": {
         "gatsby": "^2.0.91",
         "react": "^16.7.0",
