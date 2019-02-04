@@ -14,7 +14,7 @@
     "url": "https://github.com/JohnMilazzo/gatsby-solo/issues"
   },
   "dependencies": {
-    "gatsby": "^2.0.110",
+    "gatsby": "^2.0.112",
     "react": "^16.7.0",
     "react-dom": "^16.7.0"
   }
