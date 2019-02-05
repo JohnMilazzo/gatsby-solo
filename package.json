@@ -1,20 +1,33 @@
 {
   "name": "gatsby-solo",
+  "version": "1.0.0",
   "description": "A Gatsby Solo starter from AtomicGatsby.com",
-  "author": "John Milazzo <jm-gh@atomicgatsby.com>",
-  "license": "MIT",
-  "private": true,
+  "main": "index.js",
   "scripts": {
     "develop": "gatsby develop",
     "start": "npm run develop",
     "build": "gatsby build",
     "serve": "gatsby serve"
   },
+  "keywords": [
+    "Atomic Gatsby",
+    "GatsbyJS",
+    "Gatsby",
+    "Google gtag"
+  ],
+  "author": "John Milazzo <jm@atomicgatsby.com>",
+  "license": "MIT",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnMilazzo/gatsby-solo.git"
+  },
   "bugs": {
     "url": "https://github.com/JohnMilazzo/gatsby-solo/issues"
   },
+  "homepage": "https://github.com/JohnMilazzo/gatsby-solo#readme",
   "dependencies": {
-    "gatsby": "^2.0.112",
+    "gatsby": "^2.0.115",
     "react": "^16.7.0",
     "react-dom": "^16.7.0"
   }
