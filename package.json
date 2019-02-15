@@ -27,8 +27,8 @@
   },
   "homepage": "https://github.com/JohnMilazzo/gatsby-solo#readme",
   "dependencies": {
-    "gatsby": "^2.0.116",
-    "react": "^16.8.1",
-    "react-dom": "^16.8.1"
+    "gatsby": "^2.1.4",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2"
   }
 }
