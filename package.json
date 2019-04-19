@@ -1,6 +1,6 @@
 {
   "name": "gatsby-solo",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "A Gatsby Solo starter from AtomicGatsby.com",
   "main": "index.js",
   "scripts": {
@@ -27,8 +27,8 @@
   },
   "homepage": "https://github.com/JohnMilazzo/gatsby-solo#readme",
   "dependencies": {
-    "gatsby": "^2.2.5",
-    "react": "^16.8.4",
-    "react-dom": "^16.8.4"
+    "gatsby": "^2.3.25",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
   }
 }
