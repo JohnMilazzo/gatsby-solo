@@ -9,12 +9,6 @@
     "build": "gatsby build",
     "serve": "gatsby serve"
   },
-  "keywords": [
-    "Atomic Gatsby",
-    "GatsbyJS",
-    "Gatsby",
-    "Google gtag"
-  ],
   "author": "John Milazzo <jm@atomicgatsby.com>",
   "license": "MIT",
   "private": true,
@@ -27,7 +21,7 @@
   },
   "homepage": "https://github.com/JohnMilazzo/gatsby-solo#readme",
   "dependencies": {
-    "gatsby": "^2.20.8",
+    "gatsby": "^2.20.9",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   }
