@@ -1,7 +1,7 @@
 {
   "name": "gatsby-solo",
-  "version": "0.0.11",
-  "description": "A Gatsby Solo starter from AtomicGatsby.com",
+  "version": "0.1.0",
+  "description": "The base Gatsby Atom from AtomicGatsby.com",
   "main": "index.js",
   "scripts": {
     "develop": "gatsby develop",
@@ -20,7 +20,6 @@
     "url": "https://github.com/JohnMilazzo/gatsby-solo/issues"
   },
   "homepage": "https://github.com/JohnMilazzo/gatsby-solo#readme",
-  "engines" : { "node" : ">=12.16.0" },
   "dependencies": {
     "gatsby": "^2.20.9",
     "react": "^16.13.1",
