@@ -20,6 +20,7 @@
     "url": "https://github.com/JohnMilazzo/gatsby-solo/issues"
   },
   "homepage": "https://github.com/JohnMilazzo/gatsby-solo#readme",
+  "engines" : { "node" : ">=12.16.0" },
   "dependencies": {
     "gatsby": "^2.20.9",
     "react": "^16.13.1",
